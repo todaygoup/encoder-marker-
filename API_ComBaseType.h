@@ -1,11 +1,6 @@
 #ifndef API_COMBASETYPE_H
 #define API_COMBASETYPE_H
 
-/*
-为了减少 不同库 之间的类型转化， 所以做了这个通用的基础 类型
-
-*/
-
 
 struct EllipseMarker
 {
